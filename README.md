@@ -267,10 +267,16 @@ A semantic document question-answering system built using **LangChain, AstraDB a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arvik07&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvik07&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Arvik07&show_icons=true&rank_icon=github"
+    height="165"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvik07&layout=compact"
+    height="165"
+  />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
