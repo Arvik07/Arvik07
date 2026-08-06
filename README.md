@@ -4,7 +4,7 @@ Hi 👋 My name is Krishna Srivastava
 Data Science and Ai/Ml enthusiast
 ---------------------------------
 
-Electrical Engineering student at NIT Hamirpur with a deep passion for Data Science and Machine Learning
+AI/ML & GenAI Developer | Electrical Engineering @ NIT Hamirpur | Building ML, RAG & Agentic AI Systems | Python • TensorFlow • LangChain • FastAPI • Docker
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [krishn156189@gmail.com](mailto:krishn156189@gmail.com)
