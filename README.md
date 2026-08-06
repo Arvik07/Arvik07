@@ -281,13 +281,6 @@ A semantic document question-answering system built using **LangChain, AstraDB a
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arvik07&hide_border=true" />
-</p>
-
----
 
 ## 🏆 Achievements
 
