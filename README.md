@@ -264,29 +264,6 @@ A semantic document question-answering system built using **LangChain, AstraDB a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Arvik07&show_icons=true&rank_icon=github"
-    height="165"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvik07&layout=compact"
-    height="165"
-  />
-</p>
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arvik07&hide_border=true" />
-</p>
-
----
-
 
 ## 🏆 Achievements
 
